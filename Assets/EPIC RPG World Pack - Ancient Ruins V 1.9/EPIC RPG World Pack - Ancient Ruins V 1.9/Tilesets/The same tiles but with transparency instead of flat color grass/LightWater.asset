@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: LightWater
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1754281164, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: 867226007, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: -1701438865, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: 680282690, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: -1469480314, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: 1515601039, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: 917484603, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  - {fileID: -968345463, guid: 974b3d1bb53ecd344885ff21c89844be, type: 3}
+  m_MinSpeed: 30
+  m_MaxSpeed: 30
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
